@@ -3,7 +3,7 @@
 Small Lua script that works like a taskbar when used with polybar.
 I don't know why you would ever want this, but I had the thought, and now it's here.
 
-![demo.png](hopefully I embedded this correctly)
+![hopefully I embedded this correctly](demo.png)
 
 # Configuration
 
